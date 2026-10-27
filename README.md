@@ -1,0 +1,2 @@
+# Universal-AI-Empowered-HR-Intake-Match-Engine-ATS-System
+Designed and deployed a commercial-grade candidate evaluation engine. Engineered high-throughput text assessment using the 2026 Google GenAI SDK (gemini-3.5-flash-lite) mapped to a strict Pydantic EvaluationReport schema for B2B data integrity. Built a Streamlit control center, automated ReportLab PDF briefings, and vaulted data into MongoDB.
